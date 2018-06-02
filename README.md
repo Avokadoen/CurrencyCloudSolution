@@ -1,5 +1,5 @@
 # What is it?
-This is example of the deployable solution that gathers currency data from https://fixer.io/ each day and save it in a custom Golang DB. You can then request convertion of EURO to any other currency. 
+This is example of the deployable solution that gathers currency data from https://fixer.io/ each day and save it in a custom Golang DB. You can then request convertion of EURO to any other currency. This code was also made to run within a docker container. 
 
 # How to build
 I used jetbrain's Goland to build this project but should build like any other golang application on ubuntu 
