@@ -8,4 +8,4 @@ I used jetbrain's Goland to build this project but should build like any other g
 akselhj@stud.ntnu.no
 
 ## Example chat from a deployed version on slacks:
-<img src="https://github.com/Avokadoen/CurrencyCloudSolution/blob/master/example.PNG" height="900" width="450" />
+<img src="https://github.com/Avokadoen/CurrencyCloudSolution/blob/master/example.PNG" height="700" width="450" />
